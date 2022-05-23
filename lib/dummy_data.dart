@@ -5,17 +5,17 @@ const DUMMY_CATEGORIES = const [
   Category(
       id: 'c1',
       title: 'Weekly Sale',
-      color: Colors.purple,
+      color: Colors.amber,
       image: 'https://bijouxhair.com/tim/pc_may/prize1.png'),
   Category(
       id: 'c2',
       title: 'Whats New',
-      color: Colors.red,
+      color: Colors.amber,
       image: 'https://bijouxhair.com/tim/pc_may/prize2.png'),
   Category(
       id: 'c3',
       title: 'Video Gallery',
-      color: Colors.orange,
+      color: Colors.amber,
       image: 'https://bijouxhair.com/tim/pc_may/prize3.png'),
   Category(
       id: 'c4',
