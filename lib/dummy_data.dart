@@ -15,7 +15,7 @@ const DUMMY_CATEGORIES = const [
   Category(
       id: 'c3',
       title: 'Video Gallery',
-      color: Colors.amber,
+      color: Colors.blue,
       image: 'https://bijouxhair.com/tim/pc_may/prize3.png'),
   Category(
       id: 'c4',
